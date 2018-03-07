@@ -1,0 +1,1 @@
+SELECT * FROM mixing_task;
