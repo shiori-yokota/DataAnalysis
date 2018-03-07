@@ -1,0 +1,200 @@
+classify sentence number is 12.0
+a : 0.163801030903
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.575812677449
+best motion id is g
+
+classify sentence number is 61.0
+a : 0.11294345276
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.15195056766
+best motion id is g
+
+classify sentence number is 74.0
+a : 0.0381392734236
+b : 0.872029642167
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 1.16211337546
+best motion id is g
+
+classify sentence number is 137.0
+a : 0.00334967206671
+b : 0.0
+c : 0.0
+d : 1608.76613765
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is d
+
+classify sentence number is 154.0
+a : 0.147420927813
+b : 0.0
+c : 0.0
+d : 0.0
+e : 3.38242360177
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 191.0
+a : 2.15773465724
+b : 0.179945014137
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.358511627401
+best motion id is a
+
+classify sentence number is 194.0
+a : 0.269261968607
+b : 0.294022443442
+c : 0.0281615619448
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.201140044862
+best motion id is b
+
+classify sentence number is 197.0
+a : 0.2299900189
+b : 0.986618168085
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.602155128169
+best motion id is b
+
+classify sentence number is 200.0
+a : 0.0
+b : 0.0
+c : 1.09961522743
+d : 0.0
+e : 1.11833077678
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 220.0
+a : 0.0207976711586
+b : 0.0127206933392
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is a
+
+classify sentence number is 226.0
+a : 0.584311326752
+b : 0.630851077851
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0383358967914
+best motion id is b
+
+classify sentence number is 248.0
+a : 0.00687279714311
+b : 0.0
+c : 0.0
+d : 84.0659442393
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is d
+
+classify sentence number is 271.0
+a : 0.613009891226
+b : 1.04104471642
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.650630091487
+best motion id is b
+
+classify sentence number is 280.0
+a : 1.19994214393
+b : 0.929169254614
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.273064614165
+best motion id is a
+
+classify sentence number is 310.0
+a : 0.899056107184
+b : 0.202438140904
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.128600823045
+g : 0.201662790413
+best motion id is a
+
+classify sentence number is 318.0
+a : 0.111874305149
+b : 0.65139655113
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 2.01159515344
+best motion id is g
+
+classify sentence number is 327.0
+a : 0.802718457543
+b : 0.108138657145
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0615568454044
+best motion id is a
+
+classify sentence number is 351.0
+a : 0.355653094218
+b : 0.404333115697
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.1517570009
+best motion id is b
+
+classify sentence number is 366.0
+a : 0.0801587900736
+b : 1.16141672748
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is b
+
+classify sentence number is 408.0
+a : 0.826378828617
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0953153108312
+best motion id is a
+

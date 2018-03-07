@@ -1,0 +1,200 @@
+classify sentence number is 12.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.981912144703
+スプーン : 0.329861111111
+おたま : 0.0
+best tool is 菜箸
+second tool is スプーン
+
+classify sentence number is 61.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.244050838291
+スプーン : 0.0
+おたま : 0.0
+best tool is 菜箸
+second tool is 泡だて器
+
+classify sentence number is 74.0
+泡だて器 : 1.5044915742
+木べら : 0.202051182062
+手 : 0.0
+菜箸 : 0.0165201917479
+スプーン : 0.00244830946784
+おたま : 0.0
+best tool is 泡だて器
+second tool is 木べら
+
+classify sentence number is 137.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 132.460970842
+菜箸 : 0.143733762983
+スプーン : 0.0
+おたま : 0.0
+best tool is 手
+second tool is 菜箸
+
+classify sentence number is 154.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 1.65697674419
+スプーン : 0.0
+おたま : 0.0
+best tool is 菜箸
+second tool is 泡だて器
+
+classify sentence number is 191.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 2.57916095107
+おたま : 0.0
+best tool is スプーン
+second tool is 泡だて器
+
+classify sentence number is 194.0
+泡だて器 : 0.345261392228
+木べら : 0.0578386605784
+手 : 0.0
+菜箸 : 0.484230646703
+スプーン : 0.0271118721461
+おたま : 0.0
+best tool is 菜箸
+second tool is 泡だて器
+
+classify sentence number is 197.0
+泡だて器 : 0.710884353741
+木べら : 0.105555555556
+手 : 0.0
+菜箸 : 0.122739018088
+スプーン : 0.0
+おたま : 0.301587301587
+best tool is 泡だて器
+second tool is おたま
+
+classify sentence number is 200.0
+泡だて器 : 0.0
+木べら : 0.464248971193
+手 : 0.0
+菜箸 : 0.0753243328059
+スプーン : 0.0
+おたま : 0.0
+best tool is 木べら
+second tool is 菜箸
+
+classify sentence number is 220.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 2.24228938054
+スプーン : 0.0
+おたま : 0.0
+best tool is 菜箸
+second tool is 泡だて器
+
+classify sentence number is 226.0
+泡だて器 : 0.148865365504
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.081005087297
+スプーン : 0.851013672796
+おたま : 0.0
+best tool is スプーン
+second tool is 泡だて器
+
+classify sentence number is 248.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 10.1435327928
+菜箸 : 2.16529867152
+スプーン : 0.0
+おたま : 0.0
+best tool is 手
+second tool is 菜箸
+
+classify sentence number is 271.0
+泡だて器 : 2.55003554998
+木べら : 0.0174434055713
+手 : 0.0
+菜箸 : 0.0
+スプーン : 0.0
+おたま : 0.0
+best tool is 泡だて器
+second tool is 木べら
+
+classify sentence number is 280.0
+泡だて器 : 7.12562131614
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 0.0
+おたま : 0.0
+best tool is 泡だて器
+second tool is 木べら
+
+classify sentence number is 310.0
+泡だて器 : 0.0232027807344
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 2.30512510002
+おたま : 0.0
+best tool is スプーン
+second tool is 泡だて器
+
+classify sentence number is 318.0
+泡だて器 : 1.25295015966
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 0.477513227513
+おたま : 0.0
+best tool is 泡だて器
+second tool is スプーン
+
+classify sentence number is 327.0
+泡だて器 : 0.00265596218263
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 1.99280162515
+おたま : 0.0
+best tool is スプーン
+second tool is 泡だて器
+
+classify sentence number is 351.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0642343034676
+スプーン : 44.3847382662
+おたま : 0.0
+best tool is スプーン
+second tool is 菜箸
+
+classify sentence number is 366.0
+泡だて器 : 0.0
+木べら : 0.0
+手 : 0.0
+菜箸 : 0.0
+スプーン : 0.000942016214292
+おたま : 0.0
+best tool is スプーン
+second tool is 泡だて器
+
+classify sentence number is 408.0
+泡だて器 : 0.0
+木べら : 0.00910494949227
+手 : 0.0
+菜箸 : 0.0
+スプーン : 1.18785580687
+おたま : 0.0
+best tool is スプーン
+second tool is 木べら
+

@@ -1,0 +1,220 @@
+classify sentence number is 12.0
+using : スプーン
+a : 0.385825985361
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.614174014639
+best motion id is g
+
+classify sentence number is 61.0
+using : 泡だて器
+a : 0.193714585184
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.806285414816
+best motion id is g
+
+classify sentence number is 74.0
+using : 木べら
+a : 0.0190187263068
+b : 0.0
+c : 0.255713459689
+d : 0.0
+e : 0.12483154829
+f : 0.038491601739
+g : 0.561944663975
+best motion id is g
+
+classify sentence number is 137.0
+using : 菜箸
+a : 0.418448473839
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.581551526161
+g : 0.0
+best motion id is f
+
+classify sentence number is 154.0
+using : 泡だて器
+a : 1.0
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is a
+
+classify sentence number is 191.0
+using : 泡だて器
+a : 0.438175721749
+b : 0.0644270473941
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.497397230857
+best motion id is g
+
+classify sentence number is 194.0
+using : 泡だて器
+a : 0.157444013923
+b : 0.478695499837
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.36386048624
+best motion id is b
+
+classify sentence number is 197.0
+using : おたま
+a : 1.0
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is a
+
+classify sentence number is 200.0
+using : 菜箸
+a : 0.0
+b : 0.0
+c : 0.0886273152155
+d : 0.0
+e : 0.911372684784
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 220.0
+using : 泡だて器
+a : 0.369954391592
+b : 0.630045608408
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is b
+
+classify sentence number is 226.0
+using : 泡だて器
+a : 0.298349403025
+b : 0.567918289117
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.133732307858
+best motion id is b
+
+classify sentence number is 248.0
+using : 菜箸
+a : 0.0042013393124
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.995798660688
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 271.0
+using : 木べら
+a : 0.492803363371
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.507196636629
+best motion id is g
+
+classify sentence number is 280.0
+using : 木べら
+a : 0.819222959748
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.180777040252
+best motion id is a
+
+classify sentence number is 310.0
+using : 泡だて器
+a : 0.341360702288
+b : 0.135518069221
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.523121228491
+best motion id is g
+
+classify sentence number is 318.0
+using : スプーン
+a : 0.144210644032
+b : 0.476249226087
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.379540129881
+best motion id is b
+
+classify sentence number is 327.0
+using : 泡だて器
+a : 0.56771887252
+b : 0.134843243986
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.297437883494
+best motion id is a
+
+classify sentence number is 351.0
+using : 菜箸
+a : 0.375632034156
+b : 0.270411871966
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.353956093877
+best motion id is a
+
+classify sentence number is 366.0
+using : 泡だて器
+a : 0.037671113841
+b : 0.962328886159
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is b
+
+classify sentence number is 408.0
+using : 木べら
+a : 0.566850451683
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.433149548317
+best motion id is a
+

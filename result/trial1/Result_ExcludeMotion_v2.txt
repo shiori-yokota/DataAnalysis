@@ -1,0 +1,200 @@
+classify sentence number is 12.0
+a : 0.17880794702
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.82119205298
+best motion id is g
+
+classify sentence number is 61.0
+a : 0.362626430111
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.637373569889
+best motion id is g
+
+classify sentence number is 74.0
+a : 0.0352932255786
+b : 0.466977824437
+c : 0.0180408803439
+d : 0.0
+e : 0.0182663913482
+f : 0.00729653321273
+g : 0.45412514508
+best motion id is b
+
+classify sentence number is 137.0
+a : 0.000258080087949
+b : 0.0
+c : 0.0
+d : 0.999593532729
+e : 0.0
+f : 0.000148387182768
+g : 0.0
+best motion id is d
+
+classify sentence number is 154.0
+a : 0.105769230769
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.894230769231
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 191.0
+a : 0.639202659239
+b : 0.0543881847425
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.306409156019
+best motion id is a
+
+classify sentence number is 194.0
+a : 0.254889794782
+b : 0.448468260549
+c : 0.0478883856864
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.248753558982
+best motion id is b
+
+classify sentence number is 197.0
+a : 0.204030086397
+b : 0.506501115381
+c : 0.0
+d : 0.0
+e : 0.0638882088719
+f : 0.0
+g : 0.22558058935
+best motion id is b
+
+classify sentence number is 200.0
+a : 0.0
+b : 0.0
+c : 0.321608040201
+d : 0.0
+e : 0.678391959799
+f : 0.0
+g : 0.0
+best motion id is e
+
+classify sentence number is 220.0
+a : 0.503643848508
+b : 0.496356151492
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is a
+
+classify sentence number is 226.0
+a : 0.339846344372
+b : 0.374359929966
+c : 0.0
+d : 0.0
+e : 0.221465454167
+f : 0.0
+g : 0.0643282714949
+best motion id is b
+
+classify sentence number is 248.0
+a : 0.00534813480063
+b : 0.0
+c : 0.0
+d : 0.527554376136
+e : 0.467097489063
+f : 0.0
+g : 0.0
+best motion id is d
+
+classify sentence number is 271.0
+a : 0.411359417611
+b : 0.404268050002
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.184372532387
+best motion id is a
+
+classify sentence number is 280.0
+a : 0.6475830061
+b : 0.290185722423
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0622312714774
+best motion id is a
+
+classify sentence number is 310.0
+a : 0.441680180204
+b : 0.101470001423
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.171021769096
+g : 0.285828049277
+best motion id is a
+
+classify sentence number is 318.0
+a : 0.0835941947036
+b : 0.281667860722
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.634737944574
+best motion id is g
+
+classify sentence number is 327.0
+a : 0.736001497767
+b : 0.101162751137
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.162835751096
+best motion id is a
+
+classify sentence number is 351.0
+a : 0.294897716388
+b : 0.342064764656
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.363037518956
+best motion id is g
+
+classify sentence number is 366.0
+a : 0.0633595078478
+b : 0.936640492152
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.0
+best motion id is b
+
+classify sentence number is 408.0
+a : 0.75031818365
+b : 0.0
+c : 0.0
+d : 0.0
+e : 0.0
+f : 0.0
+g : 0.24968181635
+best motion id is a
+
